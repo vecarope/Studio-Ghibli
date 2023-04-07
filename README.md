@@ -7,4 +7,7 @@ Consumo de api https://studio-ghibli-films-api.herokuapp.com/
 - **Bootstrap 5** 
 - **Jquery**  
 
+### Deploy 
+**https://vecarope.github.io/studio-Ghibli.github.io/**
+
 
