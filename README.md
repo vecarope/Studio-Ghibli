@@ -1,7 +1,8 @@
 # Studio-Ghibli
-Aplicación para mostrar ficha tecnica de película del Studio Ghibli
+Aplicación para mostrar ficha técnica de película del Studio Ghibli         
+Consumo de api https://studio-ghibli-films-api.herokuapp.com/
 
-### Tecnologias  
+### Tecnologías  
 - **Javascript**  
 - **Bootstrap 5** 
 - **Jquery**  
